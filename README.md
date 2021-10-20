@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bendonaldson01
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning to build apps in Streamlit
+- 💞️ I’m looking to collaborate on SEO and User Experience projects
+- 📫 @bendonaldson
